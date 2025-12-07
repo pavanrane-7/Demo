@@ -1,2 +1,2 @@
 # Demo
-all demo projects 
+all demo projects /
